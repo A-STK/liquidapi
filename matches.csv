@@ -1,13 +1,8 @@
 team left,team right,campeonatos,urls
-M80,MongolZ,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
-BAKS,HyperioN,Ace League S1 Div. 1,https://liquipedia.net/counterstrike/Ace_League/Season_1/Split_1/Division_1
-GarGar,NVRMR,ESEA S52 - EU Advanced,https://liquipedia.net/counterstrike/ESEA/Season_52/Advanced/Europe
-4E,ENCE AC,Elisa Open Suomi Season 9,https://liquipedia.net/counterstrike/Elisa/Open_Suomi/Season_9
+NAVI,FURIA,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
 Kitsune,Monarch,ESEA S52 - ZA Open,https://liquipedia.net/counterstrike/ESEA/Season_52/Open/South_Africa
 Eco Warr.,nomercy,ESL Impact League S7: EU,https://liquipedia.net/counterstrike/ESL/Impact_League/Season_7/Europe
 Prototype,LHC,ESL Impact League S7: EU,https://liquipedia.net/counterstrike/ESL/Impact_League/Season_7/Europe
-NAVI,FURIA,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
-RED.A,VELOX.AR,GC Liga Série A: Mar. '25,https://liquipedia.net/counterstrike/Gamers_Club/Liga_S%C3%A9rie_A/2025/March
 MP,Hesta,ESEA S52 - EU Open10,https://liquipedia.net/counterstrike/ESEA/Season_52/Open10/Europe
 unrated,FS,ESEA S52 - EU Main,https://liquipedia.net/counterstrike/ESEA/Season_52/Main/Europe
 PLANO,Messi,ESL Impact League S7: SA,https://liquipedia.net/counterstrike/ESL/Impact_League/Season_7/South_America
@@ -32,10 +27,12 @@ FaZe,Astralis,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/
 Spirit,MOUZ,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
 WL,Z10,Galaxy Battle // STARTER,https://liquipedia.net/counterstrike/Galaxy_Battle/2025/STARTER
 Rhyno,RUSH B,A1 Gaming League Season 10,https://liquipedia.net/counterstrike/A1_Gaming_League/Season_10
+RED.A,VELOX.AR,GC Liga Série A: Mar. '25,https://liquipedia.net/counterstrike/Gamers_Club/Liga_S%C3%A9rie_A/2025/March
 VP,Vitality,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
 NAVI.Y,Aurora YB,ESEA S52 - EU Intermediate,https://liquipedia.net/counterstrike/ESEA/Season_52/Intermediate/Europe
 OG,Aurora,A1 Gaming League Season 10,https://liquipedia.net/counterstrike/A1_Gaming_League/Season_10
 XRAVEL,rTalent,UKIC League S5: Div. 2,https://liquipedia.net/counterstrike/UKIC/League/Season_5/Division_2
+Partizan,NVRMR,ESEA S52 - EU Advanced,https://liquipedia.net/counterstrike/ESEA/Season_52/Advanced/Europe
 América,ShindeN,ESEA S52 - SA Open,https://liquipedia.net/counterstrike/ESEA/Season_52/Open/South_America
 SemperFi,TBD,Dfrag Invitational 2025,https://liquipedia.net/counterstrike/Dfrag/Invitational/2025
 Marca,anything else,ESEA S52 - NA Advanced,https://liquipedia.net/counterstrike/ESEA/Season_52/Advanced/North_America
@@ -54,12 +51,12 @@ JANO,ENCE AC,Elisa Open Suomi Season 9,https://liquipedia.net/counterstrike/Elis
 TBD,TBD,Galaxy Battle // STARTER,https://liquipedia.net/counterstrike/Galaxy_Battle/2025/STARTER
 BP,DogEvil,ESEA S52 - Asia Open,https://liquipedia.net/counterstrike/ESEA/Season_52/Open/Asia
 Z10,WL,A1 Gaming League Season 10,https://liquipedia.net/counterstrike/A1_Gaming_League/Season_10
-TBD,TBD,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
+TBD,M80,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
 HAVU,Skinvault,Elisa Open Suomi Season 9,https://liquipedia.net/counterstrike/Elisa/Open_Suomi/Season_9
 BC.Game,ECSTATIC,A1 Gaming League Season 10,https://liquipedia.net/counterstrike/A1_Gaming_League/Season_10
 G2,EF,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
 TBD,TBD,Galaxy Battle // STARTER,https://liquipedia.net/counterstrike/Galaxy_Battle/2025/STARTER
-TBD,TBD,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
+TBD,MongolZ,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
 TBD,TBD,Dfrag Invitational 2025,https://liquipedia.net/counterstrike/Dfrag/Invitational/2025
 TBD,TBD,Dfrag Invitational 2025,https://liquipedia.net/counterstrike/Dfrag/Invitational/2025
 TBD,TBD,Dfrag Invitational 2025,https://liquipedia.net/counterstrike/Dfrag/Invitational/2025
@@ -81,7 +78,8 @@ HAVENs,hypewrld,Virslīga S4,https://liquipedia.net/counterstrike/Kleverr/Virsl%
 Tds,M1Z,Meistriliiga S2,https://liquipedia.net/counterstrike/Kleverr/Meistriliiga/Season_2
 LusHi,MightyW,Virslīga S4,https://liquipedia.net/counterstrike/Kleverr/Virsl%C4%ABga/Season_4
 God,bpeek,Meistriliiga S2,https://liquipedia.net/counterstrike/Kleverr/Meistriliiga/Season_2
-M80,MongolZ,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
+BANGA,CE,Virslīga S4,https://liquipedia.net/counterstrike/Kleverr/Virsl%C4%ABga/Season_4
+TBD,TBD,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
 NAVI,FURIA,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
 Monte,Aurora,Galaxy Battle // STARTER,https://liquipedia.net/counterstrike/Galaxy_Battle/2025/STARTER
 Huns,Falcons,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
@@ -90,9 +88,9 @@ Spirit,MOUZ,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Op
 VP,Vitality,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
 OG,Aurora,A1 Gaming League Season 10,https://liquipedia.net/counterstrike/A1_Gaming_League/Season_10
 Imperial,Liquid,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
-TBD,TBD,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
+TBD,M80,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
 G2,EF,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
-TBD,TBD,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
+TBD,MongolZ,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
 TBD,TBD,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
 TBD,TBD,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
 TBD,TBD,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
@@ -123,6 +121,10 @@ TBD,TBD,MESA Nomadic Masters,https://liquipedia.net/counterstrike/MESA/Nomadic_M
 TBD,TBD,MESA Nomadic Masters,https://liquipedia.net/counterstrike/MESA/Nomadic_Masters/2025/Spring
 TBD,TBD,MESA Nomadic Masters,https://liquipedia.net/counterstrike/MESA/Nomadic_Masters/2025/Spring
 TBD,TBD,MESA Nomadic Masters,https://liquipedia.net/counterstrike/MESA/Nomadic_Masters/2025/Spring
+4E,ENCE AC,Elisa Open Suomi Season 9,https://liquipedia.net/counterstrike/Elisa/Open_Suomi/Season_9
+BAKS,HyperioN,Ace League S1 Div. 1,https://liquipedia.net/counterstrike/Ace_League/Season_1/Split_1/Division_1
+GarGar,NVRMR,ESEA S52 - EU Advanced,https://liquipedia.net/counterstrike/ESEA/Season_52/Advanced/Europe
+M80,MongolZ,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
 GUN5,Alliance,Galaxy Battle // STARTER,https://liquipedia.net/counterstrike/Galaxy_Battle/2025/STARTER
 ex-UHKA,JANO,Elisa Open Suomi Season 9,https://liquipedia.net/counterstrike/Elisa/Open_Suomi/Season_9
 Liquid,EF,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
@@ -169,10 +171,7 @@ aYa,BESTIA,ECL Season 49: South America,https://liquipedia.net/counterstrike/ESL
 Fluxo,FS,ECL Season 49: South America,https://liquipedia.net/counterstrike/ESL/Challenger_League/Season_49/South_America/Weeks_6_to_10
 ODDIK,GH,ECL Season 49: South America,https://liquipedia.net/counterstrike/ESL/Challenger_League/Season_49/South_America/Weeks_6_to_10
 KRÜ,Sharks,ECL Season 49: South America,https://liquipedia.net/counterstrike/ESL/Challenger_League/Season_49/South_America/Weeks_6_to_10
-FURIA Fe,BH Fe,ESL Impact League S7: SA,https://liquipedia.net/counterstrike/ESL/Impact_League/Season_7/South_America
-thekillaz,Qse,ESL Impact League S7: SA,https://liquipedia.net/counterstrike/ESL/Impact_League/Season_7/South_America
-Knockdown,MIBR.A,GC Liga Série A: Mar. '25,https://liquipedia.net/counterstrike/Gamers_Club/Liga_S%C3%A9rie_A/2025/March
-w7m,ShindeN,ESEA S52 - SA Open,https://liquipedia.net/counterstrike/ESEA/Season_52/Open/South_America
+M80,MongolZ,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
 Liquid,EF,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
 G2,Imperial,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
 FaZe,VP,BLAST Open Spring 2025,https://liquipedia.net/counterstrike/BLAST/Open/2025/Spring
@@ -197,4 +196,3 @@ kONO.ECF,Eclot,European Pro League S23,https://liquipedia.net/counterstrike/Euro
 ENCE,500,CCT EU Series #20,https://liquipedia.net/counterstrike/CCT/Season_2/Europe/Series_20
 Aurora,Leo,European Pro League S23,https://liquipedia.net/counterstrike/European_Pro_League/Season_23
 Vitality,MongolZ,ESL Pro League S21,https://liquipedia.net/counterstrike/ESL/Pro_League/Season_21
-Aurora,Z10,Galaxy Battle // STARTER,https://liquipedia.net/counterstrike/Galaxy_Battle/2025/STARTER
